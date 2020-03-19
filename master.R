@@ -1,9 +1,9 @@
 
 library(tidyverse)
 library(ggpubr)
-rm(list=ls())
+# rm(list=ls())
 
-setwd("~/GitHub/2019nCoV_proportion_asym")
+# setwd("~/GitHub/2019nCoV_proportion_asym")
 n <- 10000
 source("0_Import.R")
 SI_tmp <- serial_sample_Bi$late #serial_sample_Bi$late #serial_sample_Bi$all

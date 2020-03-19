@@ -8,7 +8,9 @@ library(magrittr)
 # Set working directory
 #setwd("C:/Users/eideyliu/Desktop")
 ### generate incubation sample
-setwd("~/GitHub/2019nCoV_proportion_asym")
+# setwd("~/GitHub/2019nCoV_proportion_asym")
+### using .Rproj to set directory
+
 
 # Load data from Li et al. (2020) NEJM
 # Early Transmission Dynamics of Wuhan, China, of Novel Coronavirus - Infected
