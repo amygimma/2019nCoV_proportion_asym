@@ -12,19 +12,19 @@ IP_tmp <- incubation_sample_Bi
 source("1_sample.R")
 source("2_plot.R")
 
-# mean(SI_tmp)
-# mean(IP_tmp)
-# p1 <- p
-# p1
-# 
-# rm(list=setdiff(ls(), "p1"))
-# n <- 10000
-# source("0_Import.R")
-# SI_tmp <- serial_sample_Bi$all#serial_sample_Bi$late #serial_sample_Bi$all
-# IP_tmp <- incubation_sample_Bi
-# #incubation_sample_Bi
-# source("1_sample.R")
-# source("2_plot.R")
+mean(SI_tmp)
+mean(IP_tmp)
+p1 <- p
+p1
+
+rm(list=setdiff(ls(), "p1"))
+n <- 10000
+source("0_Import.R")
+SI_tmp <- serial_sample_Bi$all#serial_sample_Bi$late #serial_sample_Bi$all
+IP_tmp <- incubation_sample_Bi
+#incubation_sample_Bi
+source("1_sample.R")
+source("2_plot.R")
 # p2 <- p
 # 
 # ggarrange(p1, p2, ncol = 1,
