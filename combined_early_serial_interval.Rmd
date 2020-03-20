@@ -228,7 +228,7 @@ param_table %>% kable(digits = 4) %>% kable_styling(full_width = FALSE)
 ### Download distribution csv files (from github repo)
 (combined distributions from Li et al., Bi et al. (early), Nishiura et al.)
 
-* [Gamma distribution csv](https://github.com/amygimma/2019nCoV_proportion_asym/blob/outputs/gamma_fitted_early_serial_dists.csv)
-* [Weibull distribution csv](https://github.com/amygimma/2019nCoV_proportion_asym/blob/outputs/weibull_fitted_early_serial_dists.csv)
+* [Gamma distribution csv](https://github.com/amygimma/2019nCoV_proportion_asym/blob/master/outputs/gamma_fitted_early_serial_dists.csv)
+* [Weibull distribution csv](https://github.com/amygimma/2019nCoV_proportion_asym/blob/master/outputs/weibull_fitted_early_serial_dists.csv)
 
 
